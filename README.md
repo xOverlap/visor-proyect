@@ -1,8 +1,6 @@
-<!-- Create a simple README in MarkDown -->
-
 # README
 
-## Installation
+## Instalación
 
 Para instalar el proyecto siga los siguientes pasos:
 
